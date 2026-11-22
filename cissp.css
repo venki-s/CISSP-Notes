@@ -1,0 +1,21 @@
+
+mark.revise {
+    background-color: #F9D5D5;
+    color: #8B1F1F;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+mark.exam {
+    background-color: #FFF0AD;
+    color: #735000;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+mark.confident {
+    background-color: #CDEFD8;
+    color: #165C36;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
